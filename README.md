@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Vanessa-Hernandez
 - 👀 I’m interested in Data engineering
 - 🌱 I’m currently learning Apache Spark and Google Cloud Storage
+- I graduated with a BS in Computer Science
 - ⚡ Fun fact: I love to do embroidery and take long walks
 
 <!---
