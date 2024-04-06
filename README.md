@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vanessa-Hernandez
-- 👀 I’m interested in Data analysis and data engineering
-- 🌱 I’m currently learning Apache Spark
+- 👀 I’m interested in Data engineering
+- 🌱 I’m currently learning Apache Spark and Google Cloud Storage
 - ⚡ Fun fact: I love to do embroidery and take long walks
 
 <!---
