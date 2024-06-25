@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vanessa</h1>
-<h3 align="center">I'm a Computer science graduate who works on data and programming analysis</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vanessa-hernandez-6b1690185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanessa-hernandez-6b1690185/" height="30" width="40" /></a>
