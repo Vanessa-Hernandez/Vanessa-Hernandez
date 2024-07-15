@@ -5,7 +5,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessa-hernandez&show_icons=true&locale=en&layout=compact" alt="vanessa-hernandez"   width="300" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanessa-hernandez&" alt="vanessa-hernandez" width="340" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanessa-hernandez&" alt="vanessa-hernandez" width="400" />
+</p>
+<img align="center" width="150" src="https://komarev.com/ghpvc/?username=Akascape&label=PROFILE+VIEWS&style=flat-square">
 <h3 align="left">Some of my Projects:</h3>
 
 **Portfolio** 
