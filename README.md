@@ -24,7 +24,7 @@ CSS, HTML5 and Javascript was used to create an website that promotes donating t
 
 
 
-**Project 2: Flixster Application**
+**Project 2: Movie Android App**
 Created a movie android application using Java and JSON to display current movies playing at the theaters along with a summary.
 
 <img src='Flixster.gif' title='Video Walkthrough' width=150 alt='Video Walkthrough' />
