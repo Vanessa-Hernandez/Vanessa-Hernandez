@@ -7,7 +7,9 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanessa-hernandez&" alt="vanessa-hernandez" width="410" />
 </p>
-<img align="center" width="150" src="https://komarev.com/ghpvc/?username=Akascape&label=PROFILE+VIEWS&style=flat-square">
+<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanessa-hernandez"> 
+
+
 <h3 align="left">Some of my Projects:</h3>
 
 **Portfolio** 
