@@ -12,8 +12,11 @@
 
 <h3 align="left">Some of my Projects:</h3>
 
-**Portfolio** 
+
+<h3 align="left">Portfolio</h3>
 CSS, HTML5 and Javascript was used to create an website that highlights my skills and projects
+
+Website: 
 https://vanessahern.netlify.app/
 
 <img src='Portfolio.gif' title='Video Walkthrough' width=330 alt='Video Walkthrough' />
@@ -22,14 +25,16 @@ https://vanessahern.netlify.app/
 
 
 
-**Project 1: Animal Shelter Website** 
+
+<h3 align="left">Project 1: Animal Shelter Website</h3>
 CSS, HTML5 and Javascript was used to create an website that promotes donating to various Animal Shelters. It also has an embedde websites.
 
 <img src='Demo (1).gif' title='Video Walkthrough' width=330 alt='Video Walkthrough' />
 
 
 
-**Project 2: Movie Android App**
+
+<h3 align="left">Project 2: Movie Android App</h3>
 Created a movie android application using Java and JSON to display current movies playing at the theaters along with a summary.
 
 <img src='Flixster.gif' title='Video Walkthrough' width=150 alt='Video Walkthrough' />
