@@ -10,7 +10,9 @@
 
 **Project 1: Animal Shelter Website** 
 CSS, HTML5 and Javascript was used to create an website that promotes donating to various Animal Shelters. It also has an embedde websites.
+
 <img src='Demo (1).gif' title='Video Walkthrough' width=330 alt='Video Walkthrough' />
+
 
 
 **Project 2: Flixster Application**
