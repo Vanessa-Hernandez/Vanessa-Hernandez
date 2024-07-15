@@ -7,3 +7,8 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanessa-hernandez&" alt="vanessa-hernandez" width="340" /></p>
 <h3 align="left">Some of my Projects:</h3>
+Project 1: Animal Shelter Website
+CSS, HTML5 and Javascript was used to create an website that promotes donating to various Animal Shelters. It also has an embedde websites.
+
+Project 2: Flixster Application
+Created a movie android application using Java and JSON to display current movies playing at the theaters along with a summary.
