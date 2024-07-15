@@ -9,6 +9,7 @@
 <h3 align="left">Some of my Projects:</h3>
 Project 1: Animal Shelter Website
 CSS, HTML5 and Javascript was used to create an website that promotes donating to various Animal Shelters. It also has an embedde websites.
+<img src='Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Project 2: Flixster Application
 Created a movie android application using Java and JSON to display current movies playing at the theaters along with a summary.
