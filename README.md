@@ -5,4 +5,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessa-hernandez&show_icons=true&locale=en&layout=compact" alt="vanessa-hernandez"   width="300" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanessa-hernandez&" alt="vanessa-hernandez" width="300" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanessa-hernandez&" alt="vanessa-hernandez" width="340" /></p>
